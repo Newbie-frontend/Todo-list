@@ -62,8 +62,8 @@ export default {
   data() {
     return {
       todoTasks: [
-        { task: "Clean the Room !", status: "To-do" },
-        { task: "Eat the Dinner Right at 8 o'clock !", status: "Finished" },
+        { task: "Meet Esi in roof fights, and kill him with ONLY ONE bullet !", status: "To-do" },
+        { task: "Kill Stk With no bullets !", status: "Finished" },
       ],
       newTask: "",
       editedTask: null,
