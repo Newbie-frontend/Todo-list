@@ -63,7 +63,7 @@ export default {
     return {
       todoTasks: [
         { task: "Meet Esi in roof fights, and kill him with ONLY ONE bullet !", status: "To-do" },
-        { task: "Kill Stk With no bullets !", status: "Finished" },
+        { task: "Kill Stk With No bullets !", status: "Finished" },
       ],
       newTask: "",
       editedTask: null,
